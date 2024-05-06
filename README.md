@@ -51,7 +51,8 @@ module segment7(
 endmodule
 ```
 # OUTPUT
-![image](https://github.com/j-gugan/BCD_7SEGMENT/assets/163828735/e98d24af-08ef-45db-9eb8-04d8388ead76)
+![image](https://github.com/lavakumaryadhava/BCD_7SEGMENT/assets/162088994/dde9d2ce-519c-453e-a358-4c36c813f531)
+
 # Result:
 Thus the BCD 7 Segment is verified successfully.
 
